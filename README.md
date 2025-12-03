@@ -1,2 +1,2 @@
 # ESP-32-IOT
-Building a custom IOT PCB in KiCad 9
+Building a custom ESP-32 IOT PCB in KiCad 9
